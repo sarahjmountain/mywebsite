@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Travelbuddies",
+    "description": "",
+    "home_page_url": "https://sarahjmountain.github.io/mywebsite",
+    "feed_url": "https://sarahjmountain.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sarah-Jane Mouton"
+    },
+    "items": [
+    ]
+}

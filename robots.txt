@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sarahjmountain.github.io/mywebsite/sitemap.xml
